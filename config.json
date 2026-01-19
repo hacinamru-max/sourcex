@@ -1,8 +1,8 @@
 {
   "version_code": 1.2,
-  "status": "maintenance", 
+  "maintenance": "active", 
   "message": "Sistem Aktif - İyi Oyunlar!",
-  "download_url": "https://github.com/hacinamru-max/sourcex/releases/download/1.2/mono.so",
+  "download_url": "https://senin-site.com/lib.so",
   "hwid_check": false, 
   "allowed_hwids": [
     "c8a123bcde456", 

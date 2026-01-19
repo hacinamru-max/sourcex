@@ -1,6 +1,6 @@
 {
   "version_code": 1.0,
-  "status": "active", 
+  "maintenance": "active", 
   "message": "Sistem Aktif - İyi Oyunlar!",
   "download_url": "https://github.com/hacinamru-max/sourcex/releases/download/1.2/mono.so",
   "hwid_check": false, 
